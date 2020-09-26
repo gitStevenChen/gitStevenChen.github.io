@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陈奇平的博客</title>
-    <link>http://chenblog.github.io/</link>
+    <link>http://chenblog.org/</link>
     <description>Recent content on 陈奇平的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 26 Sep 2020 01:12:10 +0800</lastBuildDate>
     
-	<atom:link href="http://chenblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chenblog.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://chenblog.github.io/post/first/</link>
+      <link>http://chenblog.org/post/first/</link>
       <pubDate>Sat, 26 Sep 2020 01:12:10 +0800</pubDate>
       
-      <guid>http://chenblog.github.io/post/first/</guid>
-      <description>hello world </description>
+      <guid>http://chenblog.org/post/first/</guid>
+      <description>second change </description>
     </item>
     
   </channel>
